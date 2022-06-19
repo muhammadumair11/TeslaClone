@@ -21,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "TeslaClone.umair",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
